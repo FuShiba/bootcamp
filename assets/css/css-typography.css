@@ -1,0 +1,134 @@
+/* Colors */
+*{
+    color: rgb(13, 12, 12);
+}
+
+.color{
+    color: royalblue;
+}
+.rgb{
+    color: rgb(78, 207, 55);
+}
+.rgba{
+    color: rgba(207, 23, 23, 0.464);
+}
+.hexcode{
+    color: #37ac9e;
+}
+
+/* Font-family */
+.serif{
+    font-family: serif;
+}
+.sans-serif{
+    font-family: sans-serif;
+}
+.monospace{
+    font-family: monospace;
+}
+
+/* font-size */
+/* all text display 16px = default except heading */
+
+.px{
+    font-size: 32px;
+    font-family: serif;
+}
+.em{
+    font-size: 2em;
+    font-family: sans-serif;
+}
+.percent{
+    font-size: 200%;
+    font-family: serif;
+}
+.bold{
+    font-weight: bold;
+}
+.lighter{
+    font-weight: lighter;
+}
+.weight100{
+    font-weight: 100;
+}
+.weight900{
+    font-weight: 900;
+}
+
+
+/* fontstyle */
+.italic{
+    font-style:italic ;
+}
+.oblique{
+    font-style: oblique;
+}
+
+
+
+
+/* text-transform */
+.lowercase{
+    text-transform: lowercase;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.underline{
+    text-decoration: underline;
+}
+.overline{
+    text-decoration: overline;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.none{
+    text-decoration: none;
+}
+
+
+
+    /* text align */
+
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+/* text indent */
+
+.text-indent-px{
+    text-indent: 30px;
+}
+.text-indent-percent{
+    text-indent: 90%;
+}
+.text-indent-em{
+    text-indent: 2em;
+}
+/* letter spacing */
+.letter-spacing-5px{
+    letter-spacing: 5px;
+}
+.letter-spacing-15px{
+    letter-spacing: 15px;
+}
+
+/* word spacing */
+.word-spacing-20px{
+    word-spacing: 20;
+}
+.word-spacing-30px{
+    word-spacing: 30px;
+}
+.word-spacing-minus-10px{
+    word-spacing: -10px;
+}
